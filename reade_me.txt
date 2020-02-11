@@ -1,0 +1,26 @@
+Software informations :
+
+
+-PyCharm Community Edition 2019.2.5
+-Python 3.6
+
+Libraries used : 
+-import pandas 
+-import numpy 
+-import seaborn
+-import matplotlib.pyplot 
+-import statistics 
+-import missingno 
+-from scipy.stats import spearmanr
+-import sklearn.metrics 
+-from sklearn.ensemble import RandomForestClassifier
+-from sklearn.feature_selection import SelectFromModel
+-from sklearn.model_selection import  train_test_split
+-from sklearn.decomposition import PCA
+-from scipy.spatial.distance import cdist
+-from sklearn.cluster import KMeans
+-from sklearn.linear_model import LinearRegression
+
+
+
+Kaggle current results : RMSE =  0,15591 
